@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShahzaibNahar
+- 👋 Hi, I’m @ShahzaibNahar 
 - 👀 I’m interested in Blockchain, Machine Learning and Data Science
 - 🌱 I’m currently learning Python, Java and C++
 - 💞️ I’m looking to collaborate on Blockchain and java or c++ projects
